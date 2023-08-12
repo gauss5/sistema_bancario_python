@@ -4,6 +4,9 @@
 - Realizar depósitos
 - Realizar saques
 - Vizualizar o extrato
+- Cadastrar conta
+- Cadastrar usuário
+- Vizualizar contas
 
 ## Restrições
   - São permitidos somente 3 saques diários
